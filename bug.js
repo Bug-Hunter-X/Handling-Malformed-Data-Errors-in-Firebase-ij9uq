@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the data received from the server is malformed or corrupted. This can occur due to network issues, server-side errors, or unexpected data structures. The error messages may not always be clear, making it difficult to debug.
